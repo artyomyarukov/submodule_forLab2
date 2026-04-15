@@ -1,4 +1,4 @@
 public class Sub{
-    private age;
+    private age = 13;
   
 }
